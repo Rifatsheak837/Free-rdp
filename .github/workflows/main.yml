@@ -265,7 +265,7 @@ jobs:
           Write-Host "├───────────────────────────────────────────┤" -ForegroundColor Cyan
           Write-Host "│ 🌐  Address: $env:TAILSCALE_IP" -ForegroundColor White
           Write-Host "│ 👤  Username: free-rdp" -ForegroundColor White
-          Write-Host "│ 🔐  Password: free-rdp" -ForegroundColor White
+          Write-Host "│ 🔐  Password: rdp2026@free" -ForegroundColor White
           Write-Host "│ ⏰  Duration: $displayTime" -ForegroundColor White
           Write-Host "│ 🕐  Start time: $($startTime.ToString('HH:mm:ss'))" -ForegroundColor White
           Write-Host "│ 🕐  End time: $($endTime.ToString('HH:mm:ss'))" -ForegroundColor White
@@ -275,7 +275,7 @@ jobs:
           Write-Host "│   1. Open Remote Desktop Connection      │" -ForegroundColor Yellow
           Write-Host "│   2. Enter: $env:TAILSCALE_IP            │" -ForegroundColor Yellow
           Write-Host "│   3. Username: free-rdp                  │" -ForegroundColor Yellow
-          Write-Host "│   4. Password: free-rdp                  │" -ForegroundColor Yellow
+          Write-Host "│   4. Password: rdp2026@free                  │" -ForegroundColor Yellow
           Write-Host "│   5. Enjoy! 🚀                           │" -ForegroundColor Yellow
           Write-Host "└───────────────────────────────────────────┘" -ForegroundColor Cyan
           
