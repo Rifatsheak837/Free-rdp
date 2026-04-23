@@ -87,7 +87,7 @@ jobs:
           
           # Permanent credentials
           $username = "free-rdp"
-          $password = "free-rdp"
+          $password = "rdp2026@free"
           
           Write-Host "│ 👤 Username: $username" -ForegroundColor Cyan
           Write-Host "│ 🔑 Password: $password" -ForegroundColor Cyan
